@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 100%;
+    margin-top: 70px;
+}
+.subcontainer{
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+}
+.texts{
+    text-align: center;
+    color: white;
+    font-family: 'PT Sans Narrow', sans
+}   
